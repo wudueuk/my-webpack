@@ -9,17 +9,9 @@
     "build": "set NODE_ENV=production&&webpack",
     "clear": "rd /s /q dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wudueuk/methed_phonebook.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wudueuk/methed_phonebook/issues"
-  },
-  "homepage": "https://github.com/wudueuk/methed_phonebook#readme",
   "devDependencies": {
     "@babel/core": "^7.17.8",
     "@babel/preset-env": "^7.16.11",
